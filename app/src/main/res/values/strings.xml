@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vat</string>
+    <string name="cost_or_total_price">Cost or Total Price</string>
+    <string name="select_vat_percentage">Select VAT Percentage:</string>
+</resources>
